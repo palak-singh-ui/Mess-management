@@ -1,0 +1,22 @@
+[
+
+    {
+         "id":1,
+        "name":"Palak Singh",
+        "email":"palak@gmail.com",
+        "role":"superAdmin",
+        "password":"1234",
+        "token":"vbnjkmlkjhgfdset@#$%^"
+    },
+
+     {
+        "id":2,
+        "name":"Aashi Singh",
+        "email":"aashi@gmail.com",
+        "role" :"Admin",
+        "password":"5678",
+        "token":"dfghjkl;kjnbhvgcfx@#$%^&"
+         
+    }
+
+]
